@@ -19,14 +19,6 @@
 - **Integrate with Telegram Bot as Notification**: Make alert of claimed account.
 
 ## Installation
-
-- Clone this repo
-
-```
-git clone https://github.com/nhaidaar/sonic-daily-tx
-cd sonic-daily-tx
-```
-
 - Install requirements
 
 ```
